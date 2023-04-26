@@ -36,7 +36,8 @@ Content
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
 |>quote|quote*
   
-<sup>*no example</sup> <sub href='#Content'>dsadsa</sub>
+  
+<sup>*no example</sup> <a href='#Content'><sub>dsadsa</sub></a>
 
 <a id="Code"></a>
 
