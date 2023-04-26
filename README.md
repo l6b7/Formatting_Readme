@@ -19,7 +19,7 @@
 
 <br/>
 
-<h3 id ="Text_Operations">Text Operations</h1>
+<h2 id ="Text_Operations">Text Operations</h1>
 
 <br/>
 
@@ -36,12 +36,13 @@
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
 |>quote|quote
 
-<a href='#Content'><sup>Content</sup></a>
+<a href='#Content'><sup align="right">Content</sup></a>
 
 <br/>
 
-<a id="Code"></a>
+<h2 id ="Code">Code</h1>
 
+<br/>
 
 <table>
 <tr>
