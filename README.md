@@ -18,6 +18,7 @@
 
 <a href='#List'>Lists</a>
 
+<a href='#Hyperlinks'>Lists</a>
 
 <br/>
 
@@ -313,5 +314,16 @@ test4
  
 </tr>
 </table> 
+
+<a href='#Content'><sup>Content</sup></a>
+
+<br/>
+
+<h2 id ="Hyperlinks">Hyperlinks</h2>
+
+|set href|`<h3 id ="ID_NAME">NAME</h3>`
+|---|:--
+|go to href|`<a href='#ID_NAME'><sup>NAME</sup></a>`
+
 
 <a href='#Content'><sup>Content</sup></a>
