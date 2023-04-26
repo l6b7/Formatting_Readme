@@ -1,19 +1,27 @@
-<a name="Content"></a>
-# Readme Formatting
+
+
+<h1 id ="Content">Readme Formatting</h1>
+
+
+Content
+
+[Text_Operations](#Text_Operations)
+
+[Code](#Code)
+
+[Media_Import](#Media_Import)
+
+[Table](#Table)
+
+[List](#List)
+
+
+
 <br/>
 
+<h2 id ="Text_Operations">Text Operations</h1>
 
-
-
-
-
-
-
-
-
-
-<details>
-<summary>Text Operations</summary>
+--- 
 
 |Command|Results*
 |---|---
@@ -28,12 +36,10 @@
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
 |>quote|quote*
   
-<sup>*no example</sup>
-  
-</details>
+<sup>*no example</sup> <a href='#Content'>dsadsa</a>
 
-<details>
-<summary>Code</summary>
+<a id="Code"></a>
+
 
 <table>
 <tr>
@@ -112,22 +118,24 @@ puts markdown.to_html
 
 </tr>
 </table>
-  
-</details>
+
+<sub>[Content](#Content)</sub>
 
 
-<details>
-<summary>Media Imports</summary>
+
+<a id="Media_Import"></a>
+
+
+
 
 |Text|On Failed Load|Result
 |---|---|---
 |\!\[TEXT_IMAGE_NAME]\(FILE_PATH_REPO)|![TEXT_IMAGE_NAME](test2.png)|![TEXT_IMAGE_NAME](test.png)
 |\!\[TEXT_IMAGE_NAME]\(URL)| ![TEXT_IMAGE_NAME](RI3IUEZCJAEPQ) | ![TEXT_IMAGE_NAME](https://raw.githubusercontent.com/l6b7/Git_Formatting/main/404.png?token=GHSAT0AAAAAACB4MTRXSNVPUADD7OMRKPA6ZCJAKQQ)
-</details>
 
+<sub>[Content](#Content)</sub>
 
-<details>
-<summary>Tables</summary>
+<a id="Table"></a>
 
 <table>
 <tr>
@@ -242,12 +250,10 @@ test4
 </td>
 </tr>
 </table>
-  
-</details>
 
+<sub>[Content](#Content)</sub>
 
-<details>
-<summary>Lists</summary>
+<a id="List"></a>
 
 <table>
 <tr>
@@ -300,8 +306,5 @@ test4
  
 </tr>
 </table> 
-    
-</details>
 
-
-<a>[GO TO](#Content)</a>
+<sub>[Content](#Content)</sub>
