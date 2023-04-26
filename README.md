@@ -18,7 +18,7 @@
 
 <a href='#List'>Lists</a>
 
-<a href='#Hyperlinks'>Lists</a>
+<a href='#Hyperlinks'>Hyperlinks</a>
 
 <br/>
 
