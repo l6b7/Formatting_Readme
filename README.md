@@ -3,24 +3,21 @@
 
 <br/>
 
-### Content
+### Content:
 
 <br/>
 
-<a href='#List'><h4>Text_Operations</h4></a>
 
+<a href='#Text_Operations'>Text Operations</a>
 
-<a href='#List'><sup>List</sup></a>
+<a href='#Code'>Code</a>
 
+<a href='#Media_Import'>Media Import</a>
 
+<a href='#Table'>Tables</a>
 
-[Code](#Code)
+<a href='#List'>Lists</a>
 
-[Media_Import](#Media_Import)
-
-[Table](#Table)
-
-[List](#List)
 
 <br/>
 
@@ -41,6 +38,9 @@
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
 |>quote|quote
 
+
+
+<a href='#Content'>Content</a>
 
 <a href='#Content'><sup>Content</sup></a>
 
