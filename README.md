@@ -1,9 +1,11 @@
 
-
 <h1 id ="Content">Readme Formatting</h1>
 
+<br/>
 
-Content
+### Content
+
+<br/>
 
 [Text_Operations](#Text_Operations)
 
@@ -15,29 +17,28 @@ Content
 
 [List](#List)
 
+<br/>
 
+<h3 id ="Text_Operations">Text Operations</h1>
 
 <br/>
 
-<h2 id ="Text_Operations">Text Operations</h1>
-
---- 
-
-|Command|Results*
+|Command|Results
 |---|---
-|#|Big Paragraph + hr*
-|##|Mid Paragraph + hr*
-|###|Sml Paragraph*
-|\<br/>|end line*
+|#|Big Paragraph + hr
+|##|Mid Paragraph + hr
+|###|Sml Paragraph
+|\<br/>|end line
 |\&nbsp;|space
 |\~~STRIKE~~ |~~STRIKE~~ 
 |\*\*BOLD**|**BOLD**
 |\<sup>TEXT\</sup>|<sup>TEXT</sup>
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
-|>quote|quote*
-  
-  
-<sup>*no example</sup> <a href='#Content'><sub>dsadsa</sub></a>
+|>quote|quote
+
+<a href='#Content'><sup>Content</sup></a>
+
+<br/>
 
 <a id="Code"></a>
 
