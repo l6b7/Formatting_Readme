@@ -126,7 +126,7 @@ puts markdown.to_html
 
 <br/>
 
-<h2 id ="Media_Import">Media_Import</h2>
+<h2 id ="Media_Import">Media Import</h2>
 
 
 
@@ -139,7 +139,7 @@ puts markdown.to_html
 
 <br/>
 
-<h2 id ="Table">Table</h2>
+<h2 id ="Table">Tables</h2>
 
 
 <table>
@@ -260,14 +260,36 @@ test4
 
 <br/>
 
-<h2 id ="List">List</h2>
-
+<h2 id ="List">Lists</h2>
 
 <table>
 <tr>
 <td>Syntax</td>
 <td>Result</td>
 </tr>
+  
+<tr>
+<td>
+
+```
+<details>
+<summary>title</summary>
+hidden
+hidden
+</details>
+```
+</td>
+<td>
+
+<details>
+<summary>title</summary>
+hidden
+  
+hidden
+</details>
+</td>
+</tr>
+
 <tr>
   
 <td>
