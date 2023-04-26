@@ -21,7 +21,7 @@
 
 <br/>
 
-<h2 id ="Text_Operations">Text Operations</h1>
+<h2 id ="Text_Operations">Text Operations</h2>
 
 <br/>
 
@@ -37,10 +37,6 @@
 |\<sup>TEXT\</sup>|<sup>TEXT</sup>
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
 |>quote|quote
-
-
-
-<a href='#Content'>Content</a>
 
 <a href='#Content'><sup>Content</sup></a>
 
@@ -107,14 +103,11 @@ puts markdown.to_html
 <tr>
 
 <td>
-  
-````
-```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```  
-````  
+```diff<br/>
+- This is a red colored line<br/>
++ This is a green colored line<br/>
+@@ This is a purple colored line @@<br/>
+```    
 </td>
 <td>
 
@@ -139,7 +132,7 @@ puts markdown.to_html
 |Text|On Failed Load|Result
 |---|---|---
 |\!\[TEXT_IMAGE_NAME]\(FILE_PATH_REPO)|![TEXT_IMAGE_NAME](test2.png)|![TEXT_IMAGE_NAME](test.png)
-|\!\[TEXT_IMAGE_NAME]\(URL)| ![TEXT_IMAGE_NAME](RI3IUEZCJAEPQ) | ![TEXT_IMAGE_NAME](https://raw.githubusercontent.com/l6b7/Git_Formatting/main/404.png?token=GHSAT0AAAAAACB4MTRXSNVPUADD7OMRKPA6ZCJAKQQ)
+|\!\[TEXT_IMAGE_NAME]\(URL)| ![TEXT_IMAGE_NAME](BAD_URL.com) | ![TEXT_IMAGE_NAME](https://i.imgur.com/LqshWqB.png)
 
 <a href='#Content'><sup>Content</sup></a>
 
