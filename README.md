@@ -36,7 +36,7 @@
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
 |>quote|quote
 
-<a href='#Content'><sup align="right">Content</sup></a>
+<a href='#Content'><sup>Content</sup></a>
 
 <br/>
 
