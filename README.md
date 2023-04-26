@@ -7,6 +7,69 @@
 
 <br/>
 
+<details>
+<summary>cheatsheet</summary>
+  
+<br/>
+ 
+|img | `![TEXT_IMAGE_NAME](test2.png)`
+|:--|:--
+|set href|`<h3 id ="ID_NAME">NAME</h3>`
+|go to href|`<a href='#ID_NAME'><sup>NAME</sup></a>`
+
+  
+<table>
+<tr>
+<td>
+Table
+</td>
+<td>
+  
+```
+|TEXT|TEXT
+|---|---
+|TEXT|TEXT
+```
+</td>
+</tr>
+<tr>
+<td>
+HTML Table
+</td>
+<td>
+
+```
+<table>
+<tr>
+<td>TEXT</td>
+<td>TEXT2</td>
+</tr>
+<tr>
+<td>TEXT3</td>
+<td>TEXT4</td>
+</tr>
+</table>
+```
+</td>
+</tr>
+<tr>
+<td>
+collapsed 
+</td>
+<td>
+  
+```  
+<details>
+<summary>title</summary>
+hidden
+</details>
+```
+</td>
+</tr>
+</table>    
+
+
+</details>
 
 <a href='#Text_Operations'>Text Operations</a>
 
