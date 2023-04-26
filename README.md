@@ -11,7 +11,7 @@
 
 
 
-[Text_Operations](#Text_Operations)
+
 
 [Code](#Code)
 
