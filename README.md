@@ -7,6 +7,10 @@
 
 <br/>
 
+
+<h4 id ="Text_Operations">Text_Operations</h4>
+
+
 [Text_Operations](#Text_Operations)
 
 [Code](#Code)
@@ -36,11 +40,12 @@
 |\[TEXT_LINK_NAME](URL)|[TEXT_LINK_NAME](URL)
 |>quote|quote
 
+
 <a href='#Content'><sup>Content</sup></a>
 
 <br/>
 
-<h2 id ="Code">Code</h1>
+<h2 id ="Code">Code</h2>
 
 <br/>
 
@@ -122,12 +127,11 @@ puts markdown.to_html
 </tr>
 </table>
 
-<sub>[Content](#Content)</sub>
+<a href='#Content'><sup>Content</sup></a>
 
+<br/>
 
-
-<a id="Media_Import"></a>
-
+<h2 id ="Media_Import">Media_Import</h2>
 
 
 
@@ -136,9 +140,12 @@ puts markdown.to_html
 |\!\[TEXT_IMAGE_NAME]\(FILE_PATH_REPO)|![TEXT_IMAGE_NAME](test2.png)|![TEXT_IMAGE_NAME](test.png)
 |\!\[TEXT_IMAGE_NAME]\(URL)| ![TEXT_IMAGE_NAME](RI3IUEZCJAEPQ) | ![TEXT_IMAGE_NAME](https://raw.githubusercontent.com/l6b7/Git_Formatting/main/404.png?token=GHSAT0AAAAAACB4MTRXSNVPUADD7OMRKPA6ZCJAKQQ)
 
-<sub>[Content](#Content)</sub>
+<a href='#Content'><sup>Content</sup></a>
 
-<a id="Table"></a>
+<br/>
+
+<h2 id ="Table">Table</h2>
+
 
 <table>
 <tr>
@@ -254,9 +261,12 @@ test4
 </tr>
 </table>
 
-<sub>[Content](#Content)</sub>
+<a href='#Content'><sup>Content</sup></a>
 
-<a id="List"></a>
+<br/>
+
+<h2 id ="List">List</h2>
+
 
 <table>
 <tr>
@@ -310,4 +320,4 @@ test4
 </tr>
 </table> 
 
-<sub>[Content](#Content)</sub>
+<a href='#Content'><sup>Content</sup></a>
