@@ -5,18 +5,20 @@
 <summary>Text Operations</summary>
 <br/>
 
-|Command|Results
+|Command|Results*
 |---|---
-|#|Big Paragraph + hr
-|##|Mid Paragraph + hr
-|###|Sml Paragraph
-|\<br/>|line space
+|#|Big Paragraph + hr*
+|##|Mid Paragraph + hr*
+|###|Sml Paragraph*
+|\<br/>|end line*
 |\&nbsp;|space
 |\~~STRIKE~~ |~~STRIKE~~ 
 |\*\*BOLD**|**BOLD**
 |\<sup>TEXT\</sup>|<sup>TEXT</sup>
-|>quote|quote* <sup>doesn't show</sup>
-
+|>quote|quote*
+  
+<sup>*no example</sup>
+  
 </details>
 <br/>
 
@@ -63,7 +65,7 @@ puts markdown.to_html
 |Text|On Failed Load|Result
 |---|---|---
 |\!\[TEXT_IMAGE_NAME]\(FILE_PATH_REPO)|![TEXT_IMAGE_NAME](test2.png)|![TEXT_IMAGE_NAME](test.png)
-|\!\[TEXT_IMAGE_NAME]\(URL)| ![TEXT_IMAGE_NAME](test2.png) | ![TEXT_IMAGE_NAME](test.png)
+|\!\[TEXT_IMAGE_NAME]\(URL)| ![TEXT_IMAGE_NAME](RI3IUEZCJAEPQ) | ![TEXT_IMAGE_NAME](https://raw.githubusercontent.com/l6b7/Git_Formatting/main/404.png?token=GHSAT0AAAAAACB4MTRXOEFSGEGOGZRI3IUEZCJAEPQ)
 </details>
 <br/>
 
