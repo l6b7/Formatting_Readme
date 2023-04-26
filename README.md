@@ -1,5 +1,5 @@
 
-<h1 id ="Content">Readme Formatting</h1>
+<h1 id ="Content">Formatting Readme</h1>
 
 <br/>
 
